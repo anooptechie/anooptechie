@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Anoop</h1>
 <h3 align="center">Backend Systems Engineer from INDIA</h3>
 
